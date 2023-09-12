@@ -1,1 +1,2 @@
 "hello from Eugenie Kim" 
+"goodbye from Genie kim" 
